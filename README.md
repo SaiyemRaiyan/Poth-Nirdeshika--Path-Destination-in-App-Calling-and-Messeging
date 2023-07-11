@@ -27,7 +27,7 @@ website contains more features. These features are basically used for user purpo
 
                                                      Technologies Used
 
-       ![Capture](https://github.com/SaiyemRaiyan/Poth-Nirdeshika--Path-Destination-in-App-Calling-and-Messeging/assets/64364859/711f3f37-1116-4160-ae1d-500a6699d554)
+   ![Capture](https://github.com/SaiyemRaiyan/Poth-Nirdeshika--Path-Destination-in-App-Calling-and-Messeging/assets/64364859/711f3f37-1116-4160-ae1d-500a6699d554)
 
 
 
